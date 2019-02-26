@@ -4,6 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-hello 阳成
+hello
 </body>
 </html>
